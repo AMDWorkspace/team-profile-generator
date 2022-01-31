@@ -7,6 +7,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Test](#test)
+* [Screenshot](#screenshot)
 * [Questions](#questions)
 
 ## Description
@@ -44,6 +45,9 @@
 
 ## Test
 - Run 'npm test' to run Jest for tests
+
+## Screenshot
+![screenshot](https://github.com/AMDWorkspace/team-profile-generator/blob/main/Assets/photos/Screen%20Shot%202022-01-30%20at%2010.34.32%20PM.png)
 
 ## Questions
 Contact me with any questions:
